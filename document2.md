@@ -1,4 +1,10 @@
 # 川崎総合科学高等学校プログラミング講義
+## 実施日と講義資料
+7月29日  
+https://drive.google.com/file/d/13NcvVI1JnNOOxINp_omOwzv4NEavg5f9/view?usp=sharing
+
+8月28日  
+このGitHubの資料を使います。
 
 ## 講義の目的
 この講義では、Pythonを使ったプログラミングの基礎と、Telloドローンの操作を通じて、プログラミングの実践的な応用を学びます。
@@ -13,7 +19,9 @@
 - 基本的なリポジトリ操作（クローン、プル、プッシュ）については、GitHubのヘルプセクションを参照してください。
 
 ## 2. Pythonプログラミングの基礎
-Pythonの基本的な構文として、変数、データ型、条件分岐、ループについて説明します。具体的なコード例は以下のリンクから参照できます。
+Pythonの基本的な構文として、変数、データ型、条件分岐、ループについて説明します。具体的なコード例は以下のリンクから参照できます。  
+本講義では、Telloを動かす基礎的なところだけを学びます。  
+- [Pythonの基礎](https://pycamp.pycon.jp/textbook/index.html)
 - [Python Boot Camp 教科書](https://pycamp.pycon.jp/textbook/index.html)
 
 ## 3. PCとTelloの接続方法とバックグラウンド技術
