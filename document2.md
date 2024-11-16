@@ -146,6 +146,9 @@ drone.land()
 
 #### 実行プログラム例（基礎的なライブラリを使わない方法)
 上記をプログラムでまとめると以下になります。
+[ダウンロードはこちら](https://github.com/se-lina/for_school_2024/blob/main/basic_act.py)
+https://github.com/se-lina/for_school_2024/blob/main/basic_act.py
+
 ```python
 import socket
 import time
