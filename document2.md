@@ -1,4 +1,4 @@
-# 川崎総合科学高等学校プログラミング講義
+# 高等学校向けプログラミング講義
 ## 実施日と講義資料
 7月29日  
 [講義資料 Googleドライブで共有](https://drive.google.com/file/d/13NcvVI1JnNOOxINp_omOwzv4NEavg5f9/view?usp=sharing)
