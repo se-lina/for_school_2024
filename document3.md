@@ -139,6 +139,22 @@ def send_command_with_retry(command, max_retries=3):
     raise Exception("Command failed after max retries")
 ```
 
+### 上記を加味した新しいプログラミングをお伝えします。
+#### 追加された機能のポイント
+再送信ロジック (send_command_with_retry):
+
+コマンドを送信し、応答がない場合に最大3回まで再送信を試みます。
+応答が得られない場合、例外をスローします。
+タイムアウトの設定:
+
+ソケットのタイムアウトを5秒に設定し、長時間応答がない場合に次の処理に進めるようにしています。
+リトライ処理の実装:
+
+コマンド送信に失敗した場合の処理を強化し、通信の信頼性を向上させています。
+
+https://github.com/se-lina/for_school_2024/blob/main/basic_act_improvement.py
+
+
 ## 3. エラーハンドリングの強化
 
 ### エラー状態の検知
